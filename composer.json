@@ -1,5 +1,5 @@
 {
-  "name": "ataccama/eye-client-php",
+  "name": "stolfam/eye-client-php",
   "license": "MIT",
   "description": "PHP Client for Ataccama Eye API.",
   "version": "5.0.4",
