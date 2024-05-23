@@ -1,0 +1,30 @@
+{
+  "name": "ataccama/eye-client-php",
+  "license": "MIT",
+  "description": "PHP Client for Ataccama Eye API.",
+  "version": "5.0.4",
+  "type": "library",
+  "require": {
+    "php": ">= 8.2.0",
+    "nette/utils": ">= 2.4",
+    "nette/tester": ">= 2.3",
+    "ataccama/utils-php": "^5.0",
+    "php-curl-class/php-curl-class": ">=9.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ],
+    "files": [
+      "src/bootstrap.php"
+    ]
+  },
+  "minimum-stability": "stable",
+  "config": {
+    "platform": {
+      "php": "8.2"
+    }
+  }
+}
